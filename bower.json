@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "description": "Frontend teste",
+  "main": "index.html",
+  "authors": [
+    "Felipe Stein"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/projectstein/Curso-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^5.4.2"
+  }
+}
