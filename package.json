@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend teste",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectstein/Curso-frontend.git"
+  },
+  "author": "Felipe Stein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectstein/Curso-frontend/issues"
+  },
+  "homepage": "https://github.com/projectstein/Curso-frontend#readme"
+}
